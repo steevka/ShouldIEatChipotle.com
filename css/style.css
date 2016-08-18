@@ -1,0 +1,8 @@
+@font-face {
+    font-family: Sans Culottes;
+    src: url"/fonts/SANSC.TFF";
+}
+
+h1 {
+    font-family: Sans Culottes;
+}
